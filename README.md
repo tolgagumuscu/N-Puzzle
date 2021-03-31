@@ -1,4 +1,6 @@
-# N-Puzzle
+# Solving N-Puzzle Problem with Search Algorithms
+
+## N-Puzzle
 
 Algorithms 
   * BFS(Breadth First Search) 
@@ -7,7 +9,7 @@ Algorithms
   * A*
 
 
-# Classes
+## Classes
 
  1. main.py Runner script. 
  2. Node.py Class file for Node implementation.
