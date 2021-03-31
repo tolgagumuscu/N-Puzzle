@@ -18,3 +18,5 @@ Algorithms
  5. DFS.py Class file for depth-first search algorithm. 
  6. UCS.py Class file for uniform cost search algorithm.
  7. AStar.py Class file for A* search algorithm. 
+
+![alt text](https://ece.uwaterloo.ca/~dwharder/aads/Algorithms/N_puzzles/images/8puzzle.png)
