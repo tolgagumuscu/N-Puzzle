@@ -6,12 +6,13 @@ Algorithms
   * UCS(Uniform Cost Search) 
   * A*
 
+
 # Classes
 
- -main.py Runner script. 
- -Node.py Class file for Node implementation. 
- -Graph.py Class file for Graph implementation. 
- -BFS.py Class file for breadth-first search algorithm. 
- -DFS.py Class file for depth-first search algorithm. 
- -UCS.py Class file for uniform cost search algorithm. 
- -AStar.py Class file for A* search algorithm.
+ 1. main.py Runner script. 
+ 2. Node.py Class file for Node implementation.
+ 3. Graph.py Class file for Graph implementation. 
+ 4. BFS.py Class file for breadth-first search algorithm.
+ 5. DFS.py Class file for depth-first search algorithm. 
+ 6. UCS.py Class file for uniform cost search algorithm.
+ 7. AStar.py Class file for A* search algorithm. 
