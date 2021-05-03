@@ -1,9 +1,9 @@
 # Solving N-Puzzle Problem with Search Algorithms
 
 # What is N-Puzzle
-• The N-puzzle consists of a 3×3 board with eight numbered tiles and a blank space.
-• A tile adjacent to the blank space can slide into the space.
-• The object is to reach a specified goal state
+ * The N-puzzle consists of a 3×3 board with eight numbered tiles and a blank space.
+ * A tile adjacent to the blank space can slide into the space.
+ * The object is to reach a specified goal state.
 
 ## N-Puzzle
 Algorithms 
